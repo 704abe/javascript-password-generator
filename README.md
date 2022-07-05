@@ -34,4 +34,4 @@ THEN the password is either displayed in an alert or written to the page
 
 Deployed URL: https://704abe.github.io/javascript-password-generator/
 
-GitHub Repository: https://github.com/704abe/javascript-password-generatorgitgit
+GitHub Repository: https://github.com/704abe/javascript-password-generator
