@@ -32,3 +32,6 @@ THEN the password is either displayed in an alert or written to the page
 ![screenshot](./Assets/Screen%20Shot%202022-07-05%20at%2011.32.04%20AM.png)
 ![screenshot](./Assets/Screen%20Shot%202022-07-05%20at%2011.32.51%20AM.png)
 
+Deployed URL: https://704abe.github.io/javascript-password-generator/
+
+GitHub Repository: https://github.com/704abe/javascript-password-generatorgitgit
