@@ -32,4 +32,3 @@ THEN the password is either displayed in an alert or written to the page
 ![screenshot](./Assets/Screen%20Shot%202022-07-05%20at%2011.32.04%20AM.png)
 ![screenshot](./Assets/Screen%20Shot%202022-07-05%20at%2011.32.51%20AM.png)
 
-# javascript-password-generator
